@@ -1,0 +1,8 @@
+/target
+/logs
+/.*
+!.gitignore
+/*.ipr
+/*.iml
+/*.iws
+.DS_Store
